@@ -13,12 +13,14 @@ Esse projeto trata-se da criação de um banco de dados , Onde terá uma planilh
   * `npm install`
   
 <summary> 🐳 Início rápido com Docker Compose</summary><br>
+
 ```bash
 docker-compose up -d
 docker exec -it one_for_all bash
 npm install # instala as dependencias da aplicação
 ```
 <br>
+
 ## Relacionamentos presentes entre as tabelas :
 <img src="https://github.com/WilliamNunes905/BD-SpotifyClone/blob/main/bdSpotify.jpeg" />
 
