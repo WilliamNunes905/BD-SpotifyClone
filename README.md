@@ -5,20 +5,19 @@ Esse projeto trata-se da criação de um banco de dados , Onde terá uma planilh
 ## Instruções para clonar o projeto
 
 1. Clone o repositório
-  * `git@github.com:WilliamNunes905/BD-SpotifyClone.git`.
-  * Entre na pasta do repositório que você acabou de clonar:
+   * `git@github.com:WilliamNunes905/BD-SpotifyClone.git`.
+   * Entre na pasta do repositório que você acabou de clonar:
     * `cd BD-SpotifyClone`
     
 2. Instale as dependências
-  * `npm install`
+   * `npm install`
   
-<summary> 🐳 Início rápido com Docker Compose</summary><br>
+3. 🐳 Início rápido com Docker Compose
 
-```bash
-docker-compose up -d
-docker exec -it one_for_all bash
-npm install # instala as dependencias da aplicação
-```
+  ```bash
+  docker-compose up -d
+  docker exec -it one_for_all bash
+   ```
 
 <details>
 <summary><b>Ferramenta: MySql Workbench:</b></summary>
@@ -32,7 +31,7 @@ npm install # instala as dependencias da aplicação
   * `desafio1.sql`
   * `ctrl + a`
   * `ctrl + v no Workbench`
-
+</details>
 <br>
 
 ## Relacionamentos presentes entre as tabelas :
