@@ -19,6 +19,20 @@ docker-compose up -d
 docker exec -it one_for_all bash
 npm install # instala as dependencias da aplicação
 ```
+
+<details>
+<summary><b>Ferramenta: MySql Workbench:</b></summary>
+ 1. Conecte no banco de dados:
+ 
+  * `User: root` 
+  * `Port: 3306`
+  * `Password: password`
+ 
+2. Entre na pasta challenges:
+  * `desafio1.sql`
+  * `ctrl + a`
+  * `ctrl + v no Workbench`
+
 <br>
 
 ## Relacionamentos presentes entre as tabelas :
