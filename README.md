@@ -1,4 +1,4 @@
-# Spotify clone with MySql
+# Spotify clone com MySql
 Esse projeto trata-se da criação de um banco de dados , Onde terá uma planilha não normalizada que deverão ser normalizadas e populadas em um banco de dados para que você possa executar queries com o intuito de encontrar as informações solicitadas.
 
 
